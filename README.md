@@ -1,10 +1,10 @@
-# jewell_summery
+# Jewell Summery
 
-A new Flutter project.
+a Mobile App to controll and check the customer order in a jewellery
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project only include the desigining parts
 
 A few resources to get you started if this is your first Flutter project:
 
